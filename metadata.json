@@ -1,0 +1,15 @@
+{
+  "title": "Anne of Green Gables",
+  "shortTitle": "Anne of Green Gables",
+  "author": "Lucy Maude Montgomery",
+  "year": 1908,
+  "source": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
+  "words": 102897,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/AnneOfGreenGables",
+  "wikipedia": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
+  "blurb": "foo",
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
+}
